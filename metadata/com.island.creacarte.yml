@@ -7,3 +7,7 @@ Name: CREACARTE
 SourceCode: 'https://github.com/RikyIsola/Magic-Battle-Card-Maker'
 Summary: 'App to create cards for the game Magic Battle'
 WebSite: 'https://github.com/RikyIsola/Magic-Battle-Card-Maker'
+Categories: ['Graphics']
+AuthorEmail: 'riky.isola@gmail.com'
+AuthorWebSite: 'rikyisola.github.io'
+License: GPL-3.0

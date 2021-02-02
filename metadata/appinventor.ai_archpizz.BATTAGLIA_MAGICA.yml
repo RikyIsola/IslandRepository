@@ -7,3 +7,6 @@ Name: Battaglia Magica
 SourceCode: ''
 Summary: 'Simple game made with appinventor2'
 WebSite: 'https://rikyisola.github.io/battagliamagica.html'
+Categories: ['Games']
+AuthorEmail: 'riky.isola@gmail.com'
+AuthorWebSite: 'rikyisola.github.io'

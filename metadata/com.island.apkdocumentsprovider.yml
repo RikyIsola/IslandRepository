@@ -7,3 +7,8 @@ Name: APK Documents Provider
 SourceCode: 'https://github.com/RikyIsola/APK-Documents-Provider'
 Summary: 'This app adds to the android default file manager the ability to clone the .apk files stored in the device'
 WebSite: 'https://github.com/RikyIsola/APK-Documents-Provider'
+Categories: ['System']
+AuthorEmail: 'riky.isola@gmail.com'
+AuthorWebSite: 'rikyisola.github.io'
+License: GPL-3.0
+Description: Just open the android default file manager and on the left panel you should see the apk files section where you can see all your .apk files

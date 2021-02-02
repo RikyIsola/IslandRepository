@@ -7,3 +7,7 @@ Name: STARBATTLE
 SourceCode: 'https://github.com/RikyIsola/STAR-BATTLE'
 Summary: 'This is the android version of the python game star battle'
 WebSite: 'https://github.com/RikyIsola/STAR-BATTLE'
+Categories: ['Games']
+AuthorEmail: 'riky.isola@gmail.com'
+AuthorWebSite: 'rikyisola.github.io'
+License: GPL-3.0

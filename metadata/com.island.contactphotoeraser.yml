@@ -7,3 +7,8 @@ Name: Contact Photo Eraser
 SourceCode: 'https://github.com/RikyIsola/Contact-Photo-eraser'
 Summary: 'This app permits to remove all images from a vcf file, this can be useful on android where there isn t the option to erase every contact image'
 WebSite: 'https://github.com/RikyIsola/Contact-Photo-eraser'
+Categories: ['System']
+AuthorEmail: 'riky.isola@gmail.com'
+AuthorWebSite: 'rikyisola.github.io'
+Description: You should export all your contacts in a vcf file delete all of theme,then open this app, select the vcf file and select the name of the new vcf, then import the created file in the contacts app.
+License: GPL-3.0

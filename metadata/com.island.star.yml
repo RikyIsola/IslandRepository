@@ -7,3 +7,6 @@ Name: STAR PIXEL
 SourceCode: ''
 Summary: 'STAR PIXEL is a simple game about space adventures'
 WebSite: 'https://rikyisola.github.io/starpixel.html'
+Categories: ['Games']
+AuthorEmail: 'riky.isola@gmail.com'
+AuthorWebSite: 'rikyisola.github.io'

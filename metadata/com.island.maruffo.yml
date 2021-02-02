@@ -7,3 +7,7 @@ Name: MARUFFO
 SourceCode: 'https://github.com/RikyIsola/Torre-Maruffo-Game'
 Summary: 'MARUFFO is a game to sponsor Torre Maruffo in Genoa'
 WebSite: 'https://github.com/RikyIsola/Torre-Maruffo-Game'
+Categories: ['Games']
+AuthorEmail: 'riky.isola@gmail.com'
+AuthorWebSite: 'rikyisola.github.io'
+License: GPL-3.0

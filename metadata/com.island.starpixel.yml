@@ -7,3 +7,7 @@ Name: STAR PIXEL
 SourceCode: 'https://github.com/RikyIsola/STARPIXEL'
 Summary: 'Unfinished game about space adventures'
 WebSite: 'https://github.com/RikyIsola/STARPIXEL'
+Categories: ['Games']
+AuthorEmail: 'riky.isola@gmail.com'
+AuthorWebSite: 'rikyisola.github.io'
+License: Apache-2.0
