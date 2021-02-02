@@ -1,0 +1,9 @@
+AuthorName: 'Riccardo Isola'
+Categories:
+- IslandRepository
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/RikyIsola/Contact-Photo-eraser/issues'
+Name: Contact Photo Eraser
+SourceCode: 'https://github.com/RikyIsola/Contact-Photo-eraser'
+Summary: 'This app permits to remove all images from a vcf file, this can be useful on android where there isn t the option to erase every contact image'
+WebSite: 'https://github.com/RikyIsola/Contact-Photo-eraser'

@@ -1,0 +1,9 @@
+AuthorName: 'Riccardo Isola'
+Categories:
+- IslandRepository
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/RikyIsola/APK-Documents-Provider/issues'
+Name: APK Documents Provider
+SourceCode: 'https://github.com/RikyIsola/APK-Documents-Provider'
+Summary: 'This app adds to the android default file manager the ability to clone the .apk files stored in the device'
+WebSite: 'https://github.com/RikyIsola/APK-Documents-Provider'

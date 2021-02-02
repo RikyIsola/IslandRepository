@@ -1,0 +1,9 @@
+AuthorName: 'Riccardo Isola'
+Categories:
+- IslandRepository
+CurrentVersionCode: 2147483647
+IssueTracker: ''
+Name: Rake
+SourceCode: 'https://github.com/RikyIsola/Rake'
+Summary: 'A simple game about a monster that infests a forest, The player should kill him by using a rifle and some cameras'
+WebSite: 'https://github.com/RikyIsola/Rake'

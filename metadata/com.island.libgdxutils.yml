@@ -1,0 +1,9 @@
+AuthorName: 'Riccardo Isola'
+Categories:
+- IslandRepository
+CurrentVersionCode: 2147483647
+IssueTracker: ''
+Name: Libgdx utils for android
+SourceCode: 'https://github.com/RikyIsola/LibGDXUtils'
+Summary: 'An app to integrate with AIDE to be able to create advanced games with libgdx from android'
+WebSite: 'https://github.com/RikyIsola/LibGDXUtils'
