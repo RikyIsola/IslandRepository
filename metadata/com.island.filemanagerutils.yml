@@ -2,11 +2,19 @@ AuthorName: 'Riccardo Isola'
 Categories:
 - IslandRepository
 CurrentVersionCode: 2147483647
-IssueTracker: ''
+IssueTracker: 'https://github.com/RikyIsola/FileManagerUtils/issues'
 Name: FileManagerUtils
-SourceCode: ''
-Summary: ''
-WebSite: ''
+SourceCode: 'https://github.com/RikyIsola/FileManagerUtils'
+Summary: 'This app adds a lot of functionalities to the android default file manager'
+WebSite: 'https://github.com/RikyIsola/FileManagerUtils'
 Categories: ['System']
 AuthorEmail: 'riky.isola@gmail.com'
 AuthorWebSite: 'rikyisola.github.io'
+Description: |
+    This is a list of features that can be added to the android default file manager (features can vary with your android version)
+
+    - SFTP Client
+    - Apk extractor (not compatible with android 11)
+    - Root file explorer (you need a rooted device)
+    - Create file shortcuts (from android 8.0)
+
