@@ -9,6 +9,7 @@ Summary: 'This app adds a lot of functionalities to the android default file man
 WebSite: 'https://github.com/RikyIsola/FileManagerUtils'
 Categories: ['System']
 AuthorEmail: 'riky.isola@gmail.com'
+License: GPL-3.0
 AuthorWebSite: 'rikyisola.github.io'
 Description: |
     This is a list of features that can be added to the android default file manager (features can vary with your android version)
