@@ -4,4 +4,4 @@ A repository for all my apps
 ## Installation
 Install [F-Droid](https://f-droid.org/)
 
-Add the repository https://rikyisola.github.io/IslandRepository/repo to F-Droid
+Add the repository https://raw.githubusercontent.com/RikyIsola/IslandRepository/main/repo to F-Droid
